@@ -1,5 +1,7 @@
 Authen-Credential
 
+WARNING: This software is not maintained anymore.
+
 This module offers abstractions of credentials, i.e. something that
 can be used to authenticate. It allows the creation and manipulation of
 credentials. In particular, it defines a standard string representation
